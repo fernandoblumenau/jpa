@@ -21,6 +21,9 @@ public class Principal {
 		
 		new DaoContato().salvar(contato);
 		
+		
+		
+		
 	}
 	
 	static void chamaPegarUm() {
